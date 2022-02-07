@@ -2,7 +2,7 @@
 
 Hello! I am a junior at the College of Charleston majoring in Computing in the Arts with a concentration in Video Game Development and minoring in Creative Writing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please feel free to browse my portfolio! (link to portfolio https://neeve4.github.io/testing/ )
 
 ### Markdown
 
